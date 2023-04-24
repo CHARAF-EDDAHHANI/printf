@@ -4,6 +4,7 @@
 
 /**
  * main - Entry point
+ * by Saad and Charaf
  *
  * Return: Always 0
  */
