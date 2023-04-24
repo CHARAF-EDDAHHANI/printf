@@ -20,9 +20,10 @@
 
 /**
  * struct fmt - Struct op
+ * by Joseph and Ciny
  *
- * @fmt: The format
- * @fn: The function associated
+ * @fmt: The format.
+ * @fn: The function associated.
  */
 struct fmt
 {
@@ -34,8 +35,8 @@ struct fmt
 /**
  * typedef struct fmt fmt_t - Struct op
  *
- * @fmt: The format
- * @fm_t: The function associated
+ * @fmt: The format.
+ * @fm_t: The function associated.
  */
 typedef struct fmt fmt_t;
 
@@ -101,7 +102,6 @@ int write_num(int ind, char bff[], int flags, int width, int precision,
 	int length, char padd, char extra_c);
 int write_pointer(char buffer[], int ind, int length,
 	int width, int flags, char padd, char extra_c, int padd_start);
-
 int write_unsgnd(int is_negative, int ind,
 char buffer[],
 	int flags, int width, int precision, int size);
@@ -114,4 +114,4 @@ int is_digit(char);
 long int convert_size_number(long int num, int size);
 long int convert_size_unsgnd(unsigned long int num, int size);
 
-#endif /* MAIN_H */
+#endif
