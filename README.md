@@ -109,5 +109,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **SAAD OUCHAMA** - [temmyisijola@gmail.com](https://github.com/SAADOUCHAMA)
-* **CHARAF EDDAHHANI** - [messagelordwill@gmail.com](https://github.com/HONORPRIDE)
+* **SAAD OUCHAMA** - [saadouchama@gmail.com](https://github.com/SAADOUCHAMA)
+* **CHARAF EDDAHHANI** - [messagecharaf.gdm@gmail.com](https://github.com/HONORPRIDE)
